@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 // Adding one to the last element in array by treating the whole array as single integer.
+=======
+
+>>>>>>> fe959e6264c321fb33fb5662f3eee7444f1b6fee
 import java.math.BigInteger;
 
 public class lastIntegerSum {

@@ -1,8 +1,17 @@
 
+<<<<<<< HEAD
 // this program demonstrates the solution for replacing vowels
 //every vowel in the word is extracted and replace each vowel in its reverse order.
 import java.util.ArrayList;
 public class vowel_replacement {
+=======
+
+import java.util.ArrayList;
+public class vowel_replacement {
+   
+
+
+>>>>>>> fe959e6264c321fb33fb5662f3eee7444f1b6fee
     public static void main(String[] args) {
         
        String str = "CoimbatOre";

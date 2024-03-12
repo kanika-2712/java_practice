@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 //rotating array with the number of elements specified
+=======
+
+
+ 
+>>>>>>> fe959e6264c321fb33fb5662f3eee7444f1b6fee
 
 class array_rotation {
     public static void main(String[] args) {
@@ -19,7 +25,15 @@ class array_rotation {
         
         for(int i=0;i<arr.length;i++){
              System.out.print(arr[i]);
+<<<<<<< HEAD
         }      
+=======
+        }
+       
+       
+       
+        
+>>>>>>> fe959e6264c321fb33fb5662f3eee7444f1b6fee
        
     }
 }
